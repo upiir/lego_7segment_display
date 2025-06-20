@@ -2,6 +2,8 @@
 7 Segment Display with Lego Technic
 
 
+**YouTube video: https://youtu.be/3bkK2OsijEs**
+
 
 
 ![THUMB_lego_7segment_display_C](https://github.com/user-attachments/assets/62e29db8-b9c8-4434-9bd0-75fb3cae5f79)

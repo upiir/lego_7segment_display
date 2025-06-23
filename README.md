@@ -4,7 +4,7 @@
 
 **YouTube video: https://youtu.be/3bkK2OsijEs**
 
-
+**PCBWay shared project: https://www.pcbway.com/project/shareproject/Custom_CNC_ed_Lego_Technic_Plate_11_x_19_x_1_9ef37fe8.html**
 
 ![THUMB_lego_7segment_display_C](https://github.com/user-attachments/assets/62e29db8-b9c8-4434-9bd0-75fb3cae5f79)
 
